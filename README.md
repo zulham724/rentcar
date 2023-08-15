@@ -14,9 +14,9 @@
 
 <p align="center">Untuk Test Coding Sebagai Web Developer!</p>
 
-<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://imgur.com/PUrnMZf)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
+<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://i.imgur.com/PUrnMZf.png)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
 
-<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://imgur.com/2WRQdYl)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
+<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://i.imgur.com/2WRQdYl.png)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
 
 ## Introduction 🚀
 
