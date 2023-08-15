@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "menuHeader": "Pages"
+    },
+    {
+      "url": "/",
+      "name": "Peminjaman",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+      "url": "/rent/create",
+      "name": "Peminjaman Baru",
+      "icon": "menu-icon tf-icons bx bx-dock-left",
+      "slug": "new-rent"
+    },
+    {
+      "url": "/return",
+      "name": "Pengembalian",
+      "icon": "menu-icon tf-icons bx bx-dock-right",
+      "slug": "return"
+    }
+  ]
+}
