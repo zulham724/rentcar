@@ -14,10 +14,9 @@
 
 <p align="center">Untuk Test Coding Sebagai Web Developer!</p>
 
-![GitHub](https://img.shields.io/github/license/themeselection/sneat-html-laravel-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/sneat-html-laravel-admin-template-free) ![GitHub issues](https://img.shields.io/github/issues/themeselection/sneat-html-laravel-admin-template-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/themeselection/sneat-html-laravel-admin-template-free) ![Twitter Follow](https://img.shields.io/twitter/follow/Theme_Selection?style=social)
+<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://imgur.com/PUrnMZf)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
 
-
-<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://user-images.githubusercontent.com/5073095/165227845-438b0f58-d2c2-49c4-92e9-349577b0b48d.png)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
+<kbd>[![Sneat - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://imgur.com/2WRQdYl)](https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/)</kbd>
 
 ## Introduction 🚀
 
